@@ -1,6 +1,11 @@
 # Airbnb-Rental-Market-Analysis
 This project analyzed Airbnb rental data to provide recommendations on the most attractive neighborhoods and property types for vacation rentals in Manhattan. I identified profitable property types and forecasted annual revenue potential for top-performing listings.
 
+## Data Files
+
+### [Google Sheets Document: Airbnb Data Analysis]
+(https://docs.google.com/spreadsheets/d/1MJy3ODuMxevD5Bkz3JKZBr4sNGWG69hH_3TjJrgUDqs/edit?usp=sharing)
+
 **Skills/Tools Used**:  
 - Google Sheets and Excel: Data cleaning, pivot tables, SUMIF, data aggregation
 - Data Visualization: Bar charts, distribution tables
